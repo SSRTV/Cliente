@@ -1,5 +1,4 @@
-
-#EXTM3U
+EXTM3U
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="http://lb1.iptv.movie/logos/ae.jpg" group-title="Canais: Filme e Série",A&E HD
 http://canais.servidor.tv:8080/ybcmdq/wrrssf/1521
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD+" tvg-logo="http://lb1.iptv.movie/logos/ae.jpg" group-title="Canais: Filme e Série",A&E HD+
